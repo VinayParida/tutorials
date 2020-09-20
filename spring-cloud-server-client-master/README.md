@@ -1,7 +1,7 @@
 # spring-cloud-server-client
 
 ## Git repo link for server config in `bootstrap.properties` in Server Project
-`spring.cloud.config.server.git.uri` = https://github.com/Vinay-Parida/cloud-config-server
+`spring.cloud.config.server.git.uri` = https://github.com/VinayParida/cloud-config-server
 
 
 ### You can do profiling from Client Project in its `bootstrap.propeties`
